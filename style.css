@@ -1,0 +1,17 @@
+body{
+    background-color: aquamarine;
+}
+
+.stupidRat{
+    display:flex;
+    justify-content:space-between;
+    background-color:rgb(60, 255, 11);
+}
+.main{
+    display: flex;  
+    flex-wrap: wrap;
+}
+
+img{
+    border-radius:20px;
+}
